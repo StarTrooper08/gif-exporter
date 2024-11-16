@@ -1,0 +1,15 @@
+{
+    "name": "Figma GIF Exporter",
+    "id": "figma-gif-exporter",
+    "api": "1.0.0",
+    "main": "code.js",
+    "ui": "ui.html",
+    "permissions": [
+    "currentuser",
+    "activeusers",
+    "fileimages",
+    "readfiles",
+    "writefiles"
+  ]
+  }
+  
